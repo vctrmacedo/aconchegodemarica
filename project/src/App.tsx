@@ -3,9 +3,9 @@ import { Instagram, MessageCircle, MapPin, Phone, Mail, ChevronLeft, ChevronRigh
 import { useCallback, useState, useEffect } from 'react';
 
 const images = [
-  'https://media.discordapp.net/attachments/1232795118398996542/1334508852678230127/WhatsApp_Image_2025-01-30_at_09.37.18.jpeg?ex=679cc9b8&is=679b7838&hm=03fd63f800682074fbbfdb307066cae2d570771c17c611592916f26aee64eb2c&=&format=webp&width=1202&height=676',
-  'https://media.discordapp.net/attachments/1232795118398996542/1334508853668352102/WhatsApp_Image_2025-01-30_at_09.53.44.jpeg?ex=679cc9b8&is=679b7838&hm=e71ff81c9d3bcb1f956066bb795c7bfc59568973c0a271391ea36646216e04a3&=&format=webp&width=1202&height=676',
-  'https://media.discordapp.net/attachments/1232795118398996542/1334512326195413116/WhatsApp_Image_2025-01-30_at_10.14.17.jpeg?ex=679cccf4&is=679b7b74&hm=dd8dd6e23bfe2eaeaaacc9de00d47ca68f5adb3c343e8d161192dd5965038b85&=&format=webp&width=901&height=676',
+  'https://i.ibb.co/L74KZNf/Whats-App-Image-2025-01-30-at-09-37-18.jpg?ex=679cc9b8&is=679b7838&hm=03fd63f800682074fbbfdb307066cae2d570771c17c611592916f26aee64eb2c&=&format=webp&width=1202&height=676',
+  'https://i.ibb.co/RkbxFtLN/Whats-App-Image-2025-01-30-at-09-53-44.jpg?ex=679cc9b8&is=679b7838&hm=e71ff81c9d3bcb1f956066bb795c7bfc59568973c0a271391ea36646216e04a3&=&format=webp&width=1202&height=676',
+  'https://i.ibb.co/W4DCvHr6/Whats-App-Image-2025-01-30-at-10-14-17.jpg?ex=679cccf4&is=679b7b74&hm=dd8dd6e23bfe2eaeaaacc9de00d47ca68f5adb3c343e8d161192dd5965038b85&=&format=webp&width=901&height=676',
   //'https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&q=80&w=1920'
 ];
 
